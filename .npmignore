@@ -1,0 +1,38 @@
+# Source files
+credentials/
+nodes/
+index.ts
+tsconfig.json
+
+# Test files
+test/
+*.test.ts
+*.spec.ts
+coverage/
+jest.config.js
+
+# Development files
+.eslintrc.js
+.prettierrc
+.editorconfig
+
+# Scripts
+scripts/
+
+# Git
+.git/
+.gitignore
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Documentation (keep in dist)
+# README.md - keep
+# LICENSE - keep
+# COMMERCIAL_LICENSE.md - keep
+# LICENSING_FAQ.md - keep
